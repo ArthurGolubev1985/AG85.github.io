@@ -1,0 +1,5 @@
+User-Agent: *
+
+Sitemap: https://ArthurGolubev.com/sitemap.xml
+
+Disallow: /BingSiteAuth.xml

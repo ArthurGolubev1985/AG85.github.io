@@ -1,0 +1,15 @@
+﻿2024-10-02
+By19850316ArthurGolubev20241002ConceptsChecklistForMultithreading
+
+1 Exclude when a writing operation any other operations with a data:
+	1-1 Giving more priority for a blocking operation (information about the writing operation performer needs to be available)
+	1-2 Only when exchanging with preliminary prepared new data block other operations
+	1-3 Different combinations of trying to perform another operation when blocked, waiting different time for stopping blocking and combinations of these both.
+	1-4 Exclude when a writing operation any other operations with less pieces of the data
+
+2 Using queues:
+	2-1 either one or multiple readers from a queue and or or writers to a queue
+	2-2 Make queue internally be a set of queues with different combinations of fixing readers and writes with concrete queues
+
+3. Portion and align values and set of values for sizes of lines of caches
+

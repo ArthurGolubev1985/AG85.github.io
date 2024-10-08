@@ -1,0 +1,32 @@
+﻿By19850316ArthurGolubev20241001ConceptsChecklistForDataStoring
+1 Numbering with correspondence with existing sets
+2 Grouping
+3 Ordering
+4 Dividing for parts:
+	4-1 preliminary
+	4-2 in the process
+5 Indexing
+6 Routing
+7 Using stamps for routing
+8 Using ranges of values for routing
+9 Using probable equality for routing
+10 Storing as trees
+11 Storing as successions
+12 In successions storing trees
+13 Storing as networks
+14 Storing networks as neighbors lists
+15 Storing network as table
+16 Priority trees
+17 For skipping information using more rare lists
+18 Required accuracy of the being searched value
+19 Storing parts of a value in nodes so that the value can be collected when passing through an intended path
+20 Reusing nodes with the same values  in paths
+21 Storing values more than once
+22 Using multiple acting threads
+23 Balancing lengths of paths in trees
+24 Balancing heights in trees
+25 While searching doing portions or ordering
+26 Probability of searching for different values from a set
+27 Requirements to search only some of values from a set
+28 Using addresses or part of addresses as values or part of values
+

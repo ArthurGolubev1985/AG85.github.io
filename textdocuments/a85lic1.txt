@@ -1,0 +1,5 @@
+AG85Licence1:
+The product PRODUCT NAME can be used if the following conditions are kept:
+1. When using the product for producing their owns in any way in technical information about the own products mentioning the author of the product using name "AUTHOR NAME" is required;
+2. Any both harmless and nondiscredeting author of the product changes to the product are allowed without restrictions.
+

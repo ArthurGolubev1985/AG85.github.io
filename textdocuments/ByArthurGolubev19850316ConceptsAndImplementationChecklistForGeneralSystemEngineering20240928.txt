@@ -1,0 +1,33 @@
+﻿By19850316ArthurGolubev20240928ConceptsAndImplementationChecklistForGeneralSystemEngineering
+Concepts and implementation checklist for general system engineering
+Concepts part of the checklist:
+1 Dimensions of the system:
+	1-1 What dimensions of the system are;
+	1-2 What values of dimensions of the system can be;
+2 Parts of the system:
+	2-1 How the system can be divided;
+	2-2 What set of functions of parts of the system can be;
+	2-3 How can parts of the system intercommunicate;
+3 Storing information in the system:
+	3-1 What storing information in the system can provide advantages;
+4 Parts of the result:
+	4-1 What and how storable parts of the result can be get once;
+	4-2 What and how storable parts of the results can be reused decreasing recalculations;
+	4-3 Which lifetime needs to for each of the part of the result;
+Implementation part of the checklist:
+5 Intersafeness of the parts of the system:
+	5-1 How parts of the whole system can control and if required defense and change each other;
+6 Reserves of the system:
+	6-1 What violations of normal processes can be in the system;
+	6-2 What reserves of the systems are;
+7 Costs of variants of implementations in the system:
+	7-1 What costs (both implementations and maintenance) of variants of implementations in the system are;
+8 Interaction of the system with other world:
+	8-1 What are on the borders of the system with the other world, how to keep it safe and what costs of keeping safety it are;
+9 Interaction of the system with users:
+	9-1 What are the best ways of interacting the system with users;
+10 Interaction of the system with technics:
+	10-1 What are the best ways of interacting the system with technics.
+11 Speeds of parts of the system:
+	11-1 How possible speeds of parts of the system influence on intercommunication of the parts of the system.
+

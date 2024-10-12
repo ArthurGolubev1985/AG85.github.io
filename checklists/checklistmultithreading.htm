@@ -15,7 +15,7 @@
 	<form>
 		<label>By19850316ArthurGolubev20241002ConceptsChecklistForMultithreading</label><br>	
 		<input type="checkbox" id="1">
-		<label>1 Exclude when a writing operation any other operations with a data:</label><br>
+		<label>1 Exclude simultaneousness with any other operations with a data portion a writing operation with this data portion:</label><br>
 		<input type="checkbox" id="1-1">
 		<label>1-1 Giving more priority for a blocking operation (information about the writing operation performer needs to be available)</label><br>
 		<input type="checkbox" id="1-2">
@@ -24,14 +24,22 @@
 		<label>1-3 Different combinations of trying to perform another operation when blocked, waiting</label><br>
 		<input type="checkbox" id="1-4">
 		<label>1-4 Exclude when a writing operation any other operations with less pieces of the data</label><br>
+		<input type="checkbox" id="1-5">
+		<label>1-5 At another levels of the system making operations atomic</label>;<br>
 		<input type="checkbox" id="2">
-		<label>2 Using queues:</label><br>
+		<label>2 Queues:</label><br>
 		<input type="checkbox" id="2-1">
 		<label>2-1 Either one or multiple readers from a queue and or or writers to a queue</label><br>
 		<input type="checkbox" id="2-2">
-		<label>2-2 Make queue internally be a set of queues with different combinations of fixing readers</label><br>
+		<label>2-2 Make queue internally be a set of queues with different combinations of connecting with concrete queues readers and writes: fixed connections, dynamic connections</label><br>
+		<input type="checkbox" id="2-3">
+		<label>2-3 Queuing content variants: combination of data portions and executable code portions, only data portions, only executable code portions</label><br>
 		<input type="checkbox" id="3">
-		<label>3 Portion and align values and set of values for sizes of lines of caches</label><br>
+		<label>3 Caches:</label><br>
+		<input type="checkbox" id="3-1">
+		<label>3-1 Connecting data portions at some levels of caching with processors:  fixed connections, dynamic connections</label><br>
+		<input type="checkbox" id="3-2">
+		<label>3-2 Portioning values and set of values and aligning sizes of values and set of values for corresponding sizes of being processed portions of cache sizes so that these values and set of values fit into the size of being processed portions when performing caching operations</label><br>
 	</form>
     </body>
 </html>

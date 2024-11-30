@@ -2,67 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 	<url>
 		<loc>https://www.ag85.site/index.htm</loc>
-		<lastmod>2024-10-16T16:15:00+03:00</lastmod>
+		<lastmod>2024-11-30T16:00:00+03:00</lastmod>
 		<priority>1.00</priority>
 	</url>
 	<url>
 		<loc>https://www.ag85.site/</loc>
-		<lastmod>2024-10-16T16:15:00+03:00</lastmod>
+		<lastmod>2024-11-30T16:00:00+03:00</lastmod>
 		<priority>1.00</priority>
 	</url>
 	<url>
 		<loc>https://www.ag85.site/ag1985cv.htm</loc>
-		<lastmod>2024-11-04T16:45:00+03:00</lastmod>
+		<lastmod>2024-11-30T16:00:00+03:00</lastmod>
 		<priority>1.00</priority>
 	</url>
 	<url>
 		<loc>https://www.ag85.site/contacts.htm</loc>
-		<lastmod>2024-10-16T16:15:00+03:00</lastmod>
+		<lastmod>2024-11-30T16:00:00+03:00</lastmod>
 		<priority>1.00</priority>
 	</url>
 	<url>
 		<loc>https://www.ag85.site/educationals.htm</loc>
-		<lastmod>2024-10-16T16:15:00+03:00</lastmod>
+		<lastmod>2024-11-30T16:00:00+03:00</lastmod>
 		<priority>1.00</priority>
 	</url>
 	<url>
 		<loc>https://www.ag85.site/engineerchecklists.htm</loc>
-		<lastmod>2024-10-16T16:15:00+03:00</lastmod>
+		<lastmod>2024-11-30T16:00:00+03:00</lastmod>
 		<priority>1.00</priority>
 	</url>
 	<url>
-		<loc>https://www.ag85.site/engineerprogramblanks.site/.htm</loc>
-		<lastmod>2024-10-16T16:15:00+03:00</lastmod>
-		<priority>1.00</priority>
-	</url>
-	<url>
-		<loc>https://www.ag85.site/engineerprogramtools.htm</loc>
+		<loc>https://www.ag85.site/engineerprogramlibrariesandblanks.htm</loc>
 		<lastmod>2024-10-16T16:15:00+03:00</lastmod>
 		<priority>1.00</priority>
 	</url>
 	<url>
 		<loc>https://www.ag85.site/engineertools.htm</loc>
-		<lastmod>2024-10-16T16:15:00+03:00</lastmod>
+		<lastmod>2024-11-30T16:00:00+03:00</lastmod>
 		<priority>1.00</priority>
 	</url>
 	<url>
-		<loc>https://www.ag85.site/licensescomponentsblanks.htm</loc>
-		<lastmod>2024-10-16T16:15:00+03:00</lastmod>
+		<loc>https://www.ag85.site/licensingconceptag85l1.htm</loc>
+		<lastmod>2024-11-30T16:00:00+03:00</lastmod>
 		<priority>1.00</priority>
 	</url>
 	<url>
 		<loc>https://www.ag85.site/maintenanceprograms.htm</loc>
-		<lastmod>2024-10-16T16:15:00+03:00</lastmod>
+		<lastmod>2024-11-30T16:00:00+03:00</lastmod>
 		<priority>1.00</priority>
 	</url>
 	<url>
 		<loc>https://www.ag85.site/programcodestyles.htm</loc>
-		<lastmod>2024-10-16T16:15:00+03:00</lastmod>
+		<lastmod>2024-11-30T16:00:00+03:00</lastmod>
 		<priority>1.00</priority>
 	</url>
 	<url>
 		<loc>https://www.ag85.site/programs.htm</loc>
-		<lastmod>2024-10-16T16:15:00+03:00</lastmod>
+		<lastmod>2024-11-30T16:00:00+03:00</lastmod>
 		<priority>1.00</priority>
 	</url>
 	<url>
@@ -302,7 +297,7 @@
 	</url>
 	<url>
 		<loc>https://www.ag85.site/educationals/referencies/multithreading.htm</loc>
-		<lastmod>2024-11-16T17:45:00+03:00</lastmod>
+		<lastmod>2024-11-30T16:00:00+03:00</lastmod>
 		<priority>1</priority>
 	</url>
 </urlset>

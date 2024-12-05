@@ -1,0 +1,83 @@
+﻿Licensing concept AG85LC1
+by Arthur Golubev
+2024-12-05
+	According to licensing concept ag85lc1 licensing activity has to be realized with the following entities which can have custom names and be customly grouped in groups which also can have custom names:
+ - licensing records – data pieces with the following structure of fields each of which is optional:
+N
+Group
+Entity
+Format of the entity
+1
+products
+products
+list of products identified of custom format
+2
+action acceptors
+action accepting producers
+list of getting doing producers identified of custom format
+3
+action acceptors
+action accepting distributors
+list of getting doing distributors identified of custom format
+4
+action acceptors
+action accepting consumers
+list of getting doing consumers identified of custom format
+5
+action acceptors
+action accepting others
+list of getting doing other participants identified of custom format
+6
+action pretension levels
+to action accepting producers action pretension level
+fixed possible set of values is:  wished, claimed
+7
+action pretension levels
+to action accepting distributors action pretension level
+fixed possible set of values is: wished, claimed
+8
+action pretension levels
+to action accepting consumers action pretension level
+fixed possible set of values is: wished, claimed
+9
+action pretension levels
+to action accepting others action pretension level
+fixed possible set of values is: wished, claimed
+10
+actors
+acting producers
+list of wished of doing producers identified of custom format
+11
+actors
+acting distributors
+list of wished of doing distributors identified of custom format
+12
+actors
+acting consumers
+list of wished of doing consumers identified of custom format
+13
+actors
+acting others
+list of wished of doing other participants identified of custom format
+14
+actions
+to action accepting producers actions
+list of actions of custom format
+15
+actions
+to action accepting distributors actions
+list of actions of custom format
+16
+actions
+to action accepting consumers actions
+list of actions of custom format
+17
+actions
+to action accepting others actions
+list of actions of custom format
+- licensing unit blanks – data of licensing records without any value in one or more groups;
+- licensing units – data of licensing records with at least one value for each of groups action acceptors, action pretension levels, actors and actions and with value of field products;
+- license – a set of licensing units;
+- licensing collections – collections of custom values of fields
+and claims are to be made with licenses.
+

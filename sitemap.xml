@@ -27,17 +27,17 @@
 	</url>
 	<url>
 		<loc>https://www.ag85.site/engineerchecklists.htm</loc>
-		<lastmod>2024-12-06T08:15:00+03:00</lastmod>
+		<lastmod>2024-12-06T09:30:00+03:00</lastmod>
 		<priority>1.00</priority>
 	</url>
 	<url>
-		<loc>https://www.ag85.site/engineerprogramlibrariesandblanks.htm</loc>
-		<lastmod>2024-10-16T16:15:00+03:00</lastmod>
+		<loc>https://www.ag85.site/programmingworkpieces.htm</loc>
+		<lastmod>2024-12-06T09:30:00+03:00</lastmod>
 		<priority>1.00</priority>
 	</url>
 	<url>
 		<loc>https://www.ag85.site/engineertools.htm</loc>
-		<lastmod>2024-12-06T08:15:00+03:00</lastmod>
+		<lastmod>2024-12-06T09:30:00+03:00</lastmod>
 		<priority>1.00</priority>
 	</url>
 	<url>
@@ -57,7 +57,7 @@
 	</url>
 	<url>
 		<loc>https://www.ag85.site/programs.htm</loc>
-		<lastmod>2024-11-30T16:00:00+03:00</lastmod>
+		<lastmod>2024-12-06T09:30:00+03:00</lastmod>
 		<priority>1.00</priority>
 	</url>
 	<url>
@@ -236,28 +236,38 @@
 		<priority>0.80</priority>
 	</url>
 	<url>
-		<loc>https://www.ag85.site/programscode/ag85pf1/</loc>
-		<lastmod>2024-11-16T17:45:00+03:00</lastmod>
+		<loc>https://www.ag85.site/programs/ag85cpf.htm</loc>
+		<lastmod>2024-12-06T09:30:00+03:00</lastmod>
 		<priority>1</priority>
 	</url>
 	<url>
-		<loc>https://www.ag85.site/programscode/ag85pprtin/</loc>
-		<lastmod>2024-11-16T17:45:00+03:00</lastmod>
+		<loc>https://www.ag85.site/programs/ag85pptn.htm</loc>
+		<lastmod>2024-12-06T09:30:00+03:00</lastmod>
+		<priority>1</priority>
+	</url>
+  <url>
+		<loc>https://www.ag85.site/programscode/ag85cpf/</loc>
+		<lastmod>2024-12-06T09:30:00+03:00</lastmod>
 		<priority>1</priority>
 	</url>
 	<url>
-		<loc>https://www.ag85.site/programscode/ag85pf1.zip</loc>
-		<lastmod>2024-11-16T17:45:00+03:00</lastmod>
+		<loc>https://www.ag85.site/programscode/ag85pptn/</loc>
+		<lastmod>2024-12-06T09:30:00+03:00</lastmod>
 		<priority>1</priority>
 	</url>
 	<url>
-		<loc>https://www.ag85.site/programscode/ag85pprtin.zip</loc>
-		<lastmod>2024-11-16T17:45:00+03:00</lastmod>
+		<loc>https://www.ag85.site/programscode/202411292320ag85cpf.zip</loc>
+		<lastmod>2024-12-06T09:30:00+03:00</lastmod>
 		<priority>1</priority>
 	</url>
 	<url>
-		<loc>https://www.ag85.site/executables/pprtin/posix/pprtin</loc>
-		<lastmod>2024-11-16T17:45:00+03:00</lastmod>
+		<loc>https://www.ag85.site/programscode/ag85pptn.zip</loc>
+		<lastmod>2024-12-06T09:30:00+03:00</lastmod>
+		<priority>1</priority>
+	</url>
+	<url>
+		<loc>https://www.ag85.site/executables/pptn/posix/pptn</loc>
+		<lastmod>2024-12-06T09:30:00+03:00</lastmod>
 		<priority>1</priority>
 	</url>
   <url>
@@ -297,12 +307,12 @@
 	</url>
 	<url>
 		<loc>https://www.ag85.site/educationals/referencies/multithreading.htm</loc>
-		<lastmod>2024-12-06T08:15:00+03:00</lastmod>
+		<lastmod>2024-12-06T09:30:00+03:00</lastmod>
 		<priority>1</priority>
 	</url>
 	<url>
 		<loc>https://www.ag85.site/protocols/licensingconceptag85lc1.htm</loc>
-		<lastmod>2024-12-06T08:15:00+03:00</lastmod>
+		<lastmod>2024-12-06T09:30:00+03:00</lastmod>
 		<priority>1</priority>
 	</url>
   <url>
@@ -342,12 +352,12 @@
 	</url>
 	<url>
 		<loc>https://www.ag85.site/protocols.htm</loc>
-		<lastmod>2024-12-06T08:15:00+03:00</lastmod>
+		<lastmod>2024-12-06T09:30:00+03:00</lastmod>
 		<priority>1</priority>
 	</url>
   <url>
 		<loc>https://www.ag85.site/concepts.htm</loc>
-		<lastmod>2024-12-06T08:15:00+03:00</lastmod>
+		<lastmod>2024-12-06T09:30:00+03:00</lastmod>
 		<priority>1</priority>
 	</url>
 </urlset>

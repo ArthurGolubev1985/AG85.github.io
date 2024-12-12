@@ -1,0 +1,1 @@
+Specify command line command name as first command line argument and arguments of the command line command as following command line arguments of program and start program.

@@ -47,7 +47,7 @@
 	</url>
 	<url>
 		<loc>https://www.ag85.site/maintenanceprograms.htm</loc>
-		<lastmod>2024-12-06T11:30:00+03:00</lastmod>
+		<lastmod>2024-12-12T04:30:00+03:00</lastmod>
 		<priority>1.00</priority>
 	</url>
 	<url>
@@ -237,37 +237,72 @@
 	</url>
 	<url>
 		<loc>https://www.ag85.site/programs/ag85cpf.htm</loc>
-		<lastmod>2024-12-11T14:00:00+03:00</lastmod>
+		<lastmod>2024-12-12T18:00:00+03:00</lastmod>
 		<priority>1</priority>
 	</url>
 	<url>
-		<loc>https://www.ag85.site/programs/ag85pptn.htm</loc>
-		<lastmod>2024-12-06T09:30:00+03:00</lastmod>
+		<loc>https://www.ag85.site/programs/ag85clcd.htm</loc>
+		<lastmod>2024-12-12T18:00:00+03:00</lastmod>
 		<priority>1</priority>
 	</url>
   <url>
 		<loc>https://www.ag85.site/programscode/ag85cpf/</loc>
-		<lastmod>2024-12-11T14:00:00+03:00</lastmod>
+		<lastmod>2024-12-12T18:00:00+03:00</lastmod>
 		<priority>1</priority>
 	</url>
 	<url>
-		<loc>https://www.ag85.site/programscode/ag85pptn/</loc>
-		<lastmod>2024-12-06T09:30:00+03:00</lastmod>
+		<loc>https://www.ag85.site/programscode/ag85clcd/</loc>
+		<lastmod>2024-12-12T18:00:00+03:00</lastmod>
 		<priority>1</priority>
 	</url>
 	<url>
-		<loc>https://www.ag85.site/programscode/202411292320ag85cpf.zip</loc>
-		<lastmod>2024-12-06T09:30:00+03:00</lastmod>
+		<loc>https://www.ag85.site/programscode/202412121431ag85cpf.zip</loc>
+		<lastmod>2024-12-12T18:00:00+03:00</lastmod>
 		<priority>1</priority>
 	</url>
 	<url>
-		<loc>https://www.ag85.site/programscode/ag85pptn.zip</loc>
-		<lastmod>2024-12-06T09:30:00+03:00</lastmod>
+		<loc>https://www.ag85.site/programscode/202412121556ag85clcdcppsrc.zip</loc>
+		<lastmod>2024-12-12T18:00:00+03:00</lastmod>
 		<priority>1</priority>
 	</url>
 	<url>
-		<loc>https://www.ag85.site/executables/pptn/posix/pptn</loc>
-		<lastmod>2024-12-06T09:30:00+03:00</lastmod>
+		<loc>https://www.ag85.site/executables/ag85clcd/posix/ag85clcdnanosec</loc>
+		<lastmod>2024-12-12T18:00:00+03:00</lastmod>
+		<priority>1</priority>
+	</url>
+	<url>
+		<loc>https://www.ag85.site/executables/ag85clcd/posix/ag85clcdnanosec.zip</loc>
+		<lastmod>2024-12-12T18:00:00+03:00</lastmod>
+		<priority>1</priority>
+	</url>
+	<url>
+		<loc>https://www.ag85.site/executables/ag85clcd/posix/ag85clcdmicrosec</loc>
+		<lastmod>2024-12-12T18:00:00+03:00</lastmod>
+		<priority>1</priority>
+	</url>
+	<url>
+		<loc>https://www.ag85.site/executables/ag85clcd/posix/ag85clcdmicrosec.zip</loc>
+		<lastmod>2024-12-12T18:00:00+03:00</lastmod>
+		<priority>1</priority>
+	</url>
+	<url>
+		<loc>https://www.ag85.site/executables/ag85clcd/posix/ag85clcdmillisec</loc>
+		<lastmod>2024-12-12T18:00:00+03:00</lastmod>
+		<priority>1</priority>
+	</url>
+	<url>
+		<loc>https://www.ag85.site/executables/ag85clcd/posix/ag85clcdmillisec.zip</loc>
+		<lastmod>2024-12-12T18:00:00+03:00</lastmod>
+		<priority>1</priority>
+	</url>
+	<url>
+		<loc>https://www.ag85.site/executables/ag85clcd/posix/ag85clcdsec</loc>
+		<lastmod>2024-12-12T18:00:00+03:00</lastmod>
+		<priority>1</priority>
+	</url>
+	<url>
+		<loc>https://www.ag85.site/executables/ag85clcd/posix/ag85clcdsec.zip</loc>
+		<lastmod>2024-12-12T18:00:00+03:00</lastmod>
 		<priority>1</priority>
 	</url>
   <url>

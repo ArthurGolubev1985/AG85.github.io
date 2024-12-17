@@ -1,0 +1,301 @@
+﻿Programmer (software engineer) resume
+Arthur Golubev (Arthurgolubev1985)
+
+This resume last update day: 2024-12-17 (39 years old)
+Birthday: 1985-03-16
+Personal html Internetsite use addresses:
+https://www.ag85.site
+https://ArthurGolubev.22web.org 
+http://ArthurGolubev.22web.org
+E-mail addresses:
+	(for in English e-mails):
+		mail@ArthurGolubev.com;
+		Arthur.Golubev@live.com;
+		Arthur.Golubev@mail.ru;
+	(for in Russian e-mails):
+		Artur.Golubev@mail.ru;
+		Arthur.Golubev@yandex.ru;
+Messengers:
+	Telegram: +7(921)753-56-45;
+	Skype: Arthur.Golubev@live.com;
+Mobile phones:
+	(starting with SMS expected) +7(921)753-56-45;
+	(starting with SMS expected) +7(953)17-28-666;
+	(starting with SMS expected) +7(966)922-17-53.
+Table of Contents
+1. Related to programming (software engineering) works	2
+1.1. History of related to programming (software engineering) works sessions	3
+2. Related to programming (software engineering) activity education	6
+2.1. University education	6
+2.2. By government certified related to software engineering professional educational courses	6
+2.3. Related to programming (software engineering) comparatively long education courses	7
+2.4 Related to programming (software engineering) comparatively short educational courses	7
+2.5 People languages educational courses	7
+3. Testing certifications	8
+3.1 Related to programming (software engineering) knowledges testing result certifications	8
+3.2 People languages skills testing result certifications	8
+4. Science activity results	8
+4.1. Articles in science journals	9
+4.2. Reports at scientific conferences	9
+5. Other related to programming (software engineering) achievements	9
+5.1. Feedbacks on my works	9
+5.2. Activities in software engineering social networks	9
+     1. Related to programming (software engineering) works
+(The listed related works are: 1 Programs (Software) Engineering, 2 Educating programming.)
+         1.1. History of related to programming (software engineering) works sessions
+----------------------------------------------------------------------------------------------------
+(Part-time) 4 years 5 months				June 2020 (35 years old) — October 2024 (39 years old) 
+Own projects (Self-employed)
+(Part-time) Singular Software Engineer
+- Various programming (at 2024-12-17 current being worked on project is IPFIX flow data network traffic anomalies detector) [C++, HTML];
+- Various information technologies related concepts engineering.
+(Part-time) Singular Technical Writer
+Various technical writing.
+----------------------------------------------------------------------------------------------------
+State Organization of Additional Children Education by Kirovsky District of Saint-Petersburg
+Russia
+
+Time #2: 9 months					March 2018 (32 years old) — January 2019 (33 years old)
+Teacher of Additional Education
+• Teaching pupils programming (C++);
+• Taking parts inJudging in upils c Organizing and taking part in organizing civil educational competitions;
+• Producing methodical materials for educational courses;
+
+Time #1: 7 years 1 month				December 2002 (17 years old) — January 2010 (24 years old)
+Teacher of Additional Education
+Consequentially The Second, The First, and The Highest state qualification categories of Teacher of Additional Education specialty have been assigned to me.
+A photocopy of the certificate of The Highest Qualification Category of Teacher of Additional Education:
+	- https://disk.yandex.ru/i/g2VwerMnKDdhNg
+	- https://cloud.mail.ru/public/QBz1/8DuNz7To1
+	- https://drive.google.com/file/d/1uJtO47zTQfGbJIpeDOjHU1bmB99MiQih/view?usp=sharing
+
+• Teaching pupils programming (C++, QBasic, PC user courses);
+• Preparing pupils for city IT, programming knowledge and software applications competitions which they repeatedly placed at;
+• Producing methodical materials for educational courses;
+• Organizing and taking part in organizing civil educational competitions for pupils of additional education of Information Technologies and Programming of Saint-Petersburg;
+• Acting as a member of Active Group of Methodical Association of teachers of Information Technologies of Additional Education of Saint-Petersburg.
+----------------------------------------------------------------------------------------------------
+1 year 6 months					September 2016 (31 years old) — February 2018 (32 years old)
+State Saint-Petersburg University of Telecommunications in the name of Bonch-Bruevich M.A.
+Russia; https://www.sut.ru
+Lead Engineer, Assistant Professor
+Conducting and methodical support of the courses of:
+	• Software Engineering;
+	• Computer Engineering.
+----------------------------------------------------------------------------------------------------
+LogPoint A/S
+Remotely (Denmark); https://www.logpoint.com
+As Individual Entrepreneur (from Russia)
+
+Time #2: (One project) 4 months			June 2017 (32 years old) — September 2017 (32 years old)
+Principal Project Singular Developer for continuation of one project
+For previously developed Netflow V5 / Netflow V9 / IPFIX collector with elements of analysis corresponding to LogPoint SEIM system (https://www.logpoint.com) tasks:
+	• Integrated the collector-analyzer with the new versions of the LogPoint SEIM system [C++, Linux];
+	• Producing documentation for the collector-analyzer.
+
+Time #1: (One project) 10 months			August 2015 (30 years old) — June 2016 (31 years old)
+Principal Project Singular Developer for one project
+Netflow V5 / Netflow V9 / IPFIX collector with elements of analysis corresponding to LogPoint SEIM system (https://www.logpoint.com) tasks:
+	• Designed and implemented the collector-analyzer [C++, Linux];
+	• Integrated the collector-analyzer into LogPoint SEIM system (https://www.logpoint.com).
+----------------------------------------------------------------------------------------------------
+Upwork Freelance Platform
+For customers around the world (remotely); https://www.upwork.com
+Time #3: (Part-time) 2 months				December 2018 (33 years old) — January 2019 (33 years old)
+Time #2: (Part-time) 4 months				December 2016 (31 years old) — March 2017 (32 years old)
+Time #1: (Some part-time, some full-time) 9 months	November 2014 (29 years old) — July 2015 (30 years old)
+(Some part-time, some full-time) Freelance Software Developer
+(Profile at Upwork platform web-site: https://www.upwork.com/o/profiles/users/~014cb5bd0eacdc3c51/)
+ 
+Short-term multifarious software development jobs [C++, Linux, OS X].
+Please look through the portfolio at Upwork.com by the link https://www.upwork.com/o/profiles/users/~014cb5bd0eacdc3c51/ for details of the jobs and positive responses. Also, without login to Upwork.com, screen-shots of these are available at:
+	- https://disk.yandex.ru/d/ctwHAFwVwiw1OA
+	- https://cloud.mail.ru/public/aEkv/8YPg6QxLd
+	- https://drive.google.com/file/d/1tBnPVWzZ-E5pg9lDtwmcdaqagGhZw7G9/view?usp=sharing
+----------------------------------------------------------------------------------------------------
+Protonmedia, Inc.
+The USA (remotely); https://www.protonmedia.com
+by agency of Elverils, LLC (Russia; https://www.elveris.com)
+
+Time #2: 3 months					February 2015 (29 years old) — April 2015 (30 years old)
+Senior Software Developer
+Investigated the status in regards of readiness of code of the following version of Protosphere (https://www.protonmedia.com).
+
+Time #1: 4 years 6 months				October 2009 (24 years old) — March 2014 (29 years old)
+Senior Software Developer 
+(Starting from the 1st of January 2012 collaborating registering as an individual entrepreneur.)
+• Developed a tool for load testing Protosphere (https://www.protonmedia.com) server side part (bots) – emulating:
+	• 3D world user activity (Protonmedia servers of Protosphere server side) 
+	• audio communication activity (Microsoft Lync Server part of Protosphere server side);
+for Protosphere versions:
+	• 1.x [С++, Win32API / Windows Server, Active Directory],
+	• 2.x and 3.x [C#, MSSQL, UCMApi / Windows Server, Active Directory];
+• Designed and implemented (both server and client sides) instant messaging for some Protosphere versions with Microsoft Lync 2010 instant messaging feature [C#, UCMApi, MS Lync Client API / Windows Server, Active Directory];
+• Implemented Protosphere audio (voice) collaboration feature of client side of a Protoshere version by integration with Microsoft Office Communicator 2007 [C++, COM, Microsoft Office Communicator 2007 Automation API];
+• Designed and implemented client side of Protosphere Firewall Traversal project [С++, Win32API];
+• Developed the signal part of the communication part of client side of a Protosphere version with  integration with Microsoft Lync 2013 server and client sides using Microsoft Lync 2013 Unified Communications Web API (REST Web API) [C++, Microsoft Lync 2013 Unified Communications Web API];
+• Other various short tasks and problems solving.
+----------------------------------------------------------------------------------------------------
+(One project) 6 months					February 2011 (25 years old) — August 2011 (26 years old)	
+Elverils, LLC 
+Russia; https://www.elverils.com
+the project for AEP Networks (The United Kingdom; https://www.ultra.group)
+Senior Software Developer for one project
+Implemented Remote Desktop Protocol part of a Remote Desktop Protocol client (completely third-party (license) free code) [С++ / OS X].
+----------------------------------------------------------------------------------------------------
+2 years 1 month					August 2007 (22 years old) — August 2009 (24 years old)
+Paystation Card Systems, LLC
+Russia
+Software Developer
+For Public Transportation Monitoring, Statistics and Financial Arrangements System:
+	• Designed and developed Reporting Module [C#, MSSQL];
+	• Designed and developed Library for transmitting data via GSM/GPRS modem [C++ / Linux];
+	• Overseeing and analyzing installing and setting up vehicle-borne equipment in public buses of Saint-Petersburg (suggestions how to enhance settings and check up parts of the software of the equipment).
+----------------------------------------------------------------------------------------------------
+     2. Related to programming (software engineering) activity education
+         2.1. University education
+----------------------------------------------------------------------------------------------------
+5 years (with a pause for a year)					2002 (17 years old) - 2008 (23 years old)
+State Saint-Petersburg University of Telecommunications in the name of Bonch-Bruevich M.A.
+Russia; https://www.sut.ru
+Communication Networks and Switching Systems Engineer qualification
+Faculty of Communication Networks and Switching Systems (later of Infocommunication Networks and Systems)
+A scan copy of diploma: 
+	- https://disk.yandex.ru/i/68TAE106zAvlxw
+	- https://cloud.mail.ru/public/gXtn/ak4Tb1Yja
+	- https://drive.google.com/file/d/1Uq2WS0U_WBBkMGeCDWb6Wnm-5cU7XMPw/view?usp=sharing 
+----------------------------------------------------------------------------------------------------
+         2.2. By government certified related to software engineering professional educational courses
+----------------------------------------------------------------------------------------------------
+144 hours						September 2021 (36 years old) – October 2021 (36 years old)
+ITMO University
+Russia (remotely); https://www.itmo.ru
+Machine Learning and Data Analitics
+A photocopy of the certificate 782411993999:
+	- https://disk.yandex.ru/i/EXBl-2N-sP6uQQ
+	- https://cloud.mail.ru/public/C8qY/ixQLWZ6MQ
+	- https://drive.google.com/file/d/1yuPYZ4O15tTTf73yv18_nDQNaezCpwnW/view?usp=sharing
+----------------------------------------------------------------------------------------------------
+120 hours						February 2021 (35 years old) - April 2021 (36 years old)
+Yandex.Practicum (Yandex School of Data Analysis)
+Russia (remotely); https://www.practicum.yandex.ru
+Data Analist
+A photo copy of the certificate 20212DU00211: 
+	- https://yadi.sk/i/fBha0nq1T9Bj6w,
+	- https://disk.yandex.ru/i/D2m2MUQm2O6rIg
+	- https://cloud.mail.ru/public/WhtF/xpLm5jozb
+	- https://drive.google.com/file/d/1_OqgUcyJ9J3ML_kY6WUdx1zMl61-a96b/view?usp=sharing
+----------------------------------------------------------------------------------------------------
+         2.3. Related to programming (software engineering) comparatively long education courses
+----------------------------------------------------------------------------------------------------
+5 years 									1995 (10 years old) - 2000 (15 years old)
+State Organization of Additional Children Education by Kirovsky District of Saint-Petersburg
+Learning programming consequentially in in chronical order QBasic, Pascal, C, C++.
+Winning at pupils competitions:
+Photocopy of the programs competitions winner certificates:
+- State level in program developer the 1st winner diploma in 1999 year:
+	- https://disk.yandex.ru/i/UHtn-YNeW5vuPw
+	- https://cloud.mail.ru/public/j2Xb/73RLJqiCZ
+	- https://drive.google.com/file/d/1eRNr0E-BBb9Et_ZCohXs3OeNsWKAe6ve
+-  State level in program developer the 2nd winner diploma in 1999 year:
+	- https://disk.yandex.ru/i/aC_pPFv3n7emkw
+	- https://cloud.mail.ru/public/9jvn/noS3oxSxy
+	- https://drive.google.com/file/d/1JFPxWmsXZHPWo1l9sbAMzjkp3uu28SRY
+- State level in program developer the 3rd winner diploma in 2000 year:
+	- https://disk.yandex.ru/i/GIrF-oANjQAreg
+	- https://cloud.mail.ru/public/Xvud/qtTj77Q7H
+	- https://drive.google.com/file/d/1YyEUPM2wi-5p6fPPKgNtaDEyDL6jV8Yt
+- District level in program developer the 3rd winner diploma in 1999 year:
+	- https://disk.yandex.ru/i/d9MGkXkspkOoTA
+	- https://cloud.mail.ru/public/ayfc/chxRnmuNM
+	- https://drive.google.com/file/d/1pa4o9mDVMgidP9hkQHd_PKOFV2z6-xwE
+Photocopy of the creativity products competitions winner certificate:  
+	- https://disk.yandex.ru/i/aG8Z1uOq2Di_uw
+	- https://cloud.mail.ru/public/Bx4D/7kctdy3ZM
+	- https://drive.google.com/file/d/1bKon_zOryrRZAL5EqwMavaUasH38zRYT
+----------------------------------------------------------------------------------------------------
+2.4 Related to programming (software engineering) comparatively short educational courses
+	From 2018 to 2024 years about 15 online educational courses and 1 offline educational course - almost all of them with certificates which I don’t provide here to reduce amount of information in this document.
+2.5 People languages educational courses
+----------------------------------------------------------------------------------------------------
+								… 2010 (25 years old) - March 2011 (25 years old)
+Glory School 
+Saint-Petersburg, Russia; License # A 217117
+Upper-Intermediate level of English
+Photocopy of the certificate:
+	- https://disk.yandex.ru/i/Mp_wPTlCJoCyEA
+	- https://cloud.mail.ru/public/AQgD/RHHjBaBer
+	- https://drive.google.com/file/d/1UOwkk0CYAGaC1qH_9nOHNPJmkVt-MP27/view?usp=sharing
+----------------------------------------------------------------------------------------------------
+								… 2010 (25 years old) - … 2010 (25 years old)
+Glory School
+Saint-Petersburg, Russia; License # A 217117
+Intermediate level of English 
+Without providing the certificate here.
+----------------------------------------------------------------------------------------------------
+     3. Testing certifications
+3.1 Related to programming (software engineering) knowledges testing result certifications
+----------------------------------------------------------------------------------------------------
+2014
+Brainbench.com
+Master C++
+Fundamentals
+C++, C++11
+Internet link: http://www.brainbench.com/xml/bb/transcript/public/consumer/viewtranscript.xml?pid=11628137
+----------------------------------------------------------------------------------------------------
+2007
+Veles academy
+ANSI C
+Photocopy of the certificate:
+- https://disk.yandex.ru/i/pdtJnKzxIlCWHQ
+- https://cloud.mail.ru/public/fUyH/BGKjFdVVE
+- https://drive.google.com/file/d/1QIYhiP807IGqGUyv10_LyG6-TimLOeHa
+----------------------------------------------------------------------------------------------------
+3.2 People languages skills testing result certifications
+----------------------------------------------------------------------------------------------------
+2015
+Duolingo
+Duolingo Proficiency Exam in English
+Internet link: https://certs.duolingo.com/q47864m4
+----------------------------------------------------------------------------------------------------
+     4. Science activity results
+Some for future id info:
+	- ORCID (has not been used yet): https://orcid.org/0000-0002-7191-063X
+         4.1. Articles in science journals
+----------------------------------------------------------------------------------------------------
+The investigation in 2016 (31 years old), the publication in 2017
+Collection of scientific papers of 6th International Conference of Advanced InfoTelecommunications (2017)
+(In Russian) “Blockchain Technology: Prospects, Applications, Educational Vacuum”
+PP. 230-234:
+	- https://www.sut.ru/doci/nauka/6apino/apino2017-2.pdf
+	- https://disk.yandex.ru/i/qy-5NmgmGutFzA
+	- https://cloud.mail.ru/public/SwgQ/UD4WVEC4s
+	- https://drive.google.com/file/d/1LDXbteME1fCyD2rxG-x5WiL1dkEF5Ba-/view?usp=sharing
+----------------------------------------------------------------------------------------------------
+         4.2. Reports at scientific conferences
+----------------------------------------------------------------------------------------------------
+2017
+The 6th International Conference of Advanced InfoTelecommunications (2017)
+(In Russian) “Blockchain Technology: Prospects, Applications, Educational Vacuum”
+----------------------------------------------------------------------------------------------------
+     5. Other related to programming (software engineering) achievements
+         5.1. Feedbacks on my works
+----------------------------------------------------------------------------------------------------
+Upwork.com 
+Jobs history with positive feedbacks in regard to work results
+- In the portfolio at Upwork.com by the link:
+	- https://www.upwork.com/o/profiles/users/~014cb5bd0eacdc3c51
+- Because some time Upwork.com required registration for looking at the info I am providing here corresponding screenshots:
+	- https://disk.yandex.ru/d/ctwHAFwVwiw1OA
+	- https://cloud.mail.ru/public/aEkv/8YPg6QxLd
+	- https://drive.google.com/file/d/1tBnPVWzZ-E5pg9lDtwmcdaqagGhZw7G9/view?usp=sharing
+----------------------------------------------------------------------------------------------------
+         5.2. Activities in software engineering social networks
+----------------------------------------------------------------------------------------------------
+StackOverflow (Software engineering topic questions-and-answers system)
+Account with technical answers for custom user questions
+- https://stackoverflow.com/users/1790694/arthur-p-golubev
+----------------------------------------------------------------------------------------------------
+
+Page for user notes:
+

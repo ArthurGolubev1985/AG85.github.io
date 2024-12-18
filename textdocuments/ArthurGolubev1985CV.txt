@@ -44,7 +44,7 @@ Table of Contents
 (The listed related works are: 1 Programs (Software) Engineering, 2 Educating programming.)
          1.1. History of related to programming (software engineering) works sessions
 ----------------------------------------------------------------------------------------------------
-(Part-time) in progress				June 2020 (35 years old) — still
+(Part-time) in progress					June 2020 (35 years old) — still
 Own projects (Self-employed)
 (Part-time) Singular Software Engineer
 - Various programming (at 2024-12-17 current being worked on project is IPFIX flow data network traffic anomalies detector) [C++, HTML];

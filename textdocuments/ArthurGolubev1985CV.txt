@@ -1,7 +1,7 @@
 ﻿Programmer (software engineer) resume
 Arthur Golubev (Arthurgolubev1985)
 
-This resume last update day: 2024-12-17 (39 years old)
+This resume last update day: 2024-12-31 (39 years old)
 Birthday: 1985-03-16
 Personal html Internetsite use addresses:
 https://www.ag85.site
@@ -22,35 +22,55 @@ Mobile phones:
 	(starting with SMS expected) +7(921)753-56-45;
 	(starting with SMS expected) +7(953)17-28-666;
 	(starting with SMS expected) +7(966)922-17-53.
+
 Table of Contents
-1. Related to programming (software engineering) works	2
-1.1. History of related to programming (software engineering) works sessions	3
-2. Related to programming (software engineering) activity education	6
-2.1. University education	6
-2.2. By government certified related to software engineering professional educational courses	6
-2.3. Related to programming (software engineering) comparatively long education courses	7
+ 1. Related to programming (software engineering) works	2
+ 1.1. History of related to programming (software engineering) works sessions	3
+ 2. Related to programming (software engineering) activity education	6
+ 2.1. University education	6
+ 2.2. By government certified related to software engineering professional educational courses	6
+ 2.3. Related to programming (software engineering) comparatively long education courses	7
 2.4 Related to programming (software engineering) comparatively short educational courses	7
-2.5 People languages educational courses	7
-3. Testing certifications	8
+2.5 People languages educational courses	8
+ 3. Testing certifications	8
 3.1 Related to programming (software engineering) knowledges testing result certifications	8
-3.2 People languages skills testing result certifications	8
-4. Science activity results	8
-4.1. Articles in science journals	9
-4.2. Reports at scientific conferences	9
-5. Other related to programming (software engineering) achievements	9
-5.1. Feedbacks on my works	9
-5.2. Activities in software engineering social networks	9
+3.2 People languages skills testing result certifications	9
+ 4. Science activity results	9
+ 4.1. Articles in science journals	9
+ 4.2. Reports at scientific conferences	9
+ 5. Other related to programming (software engineering) achievements	9
+ 5.1. Feedbacks on my works	9
+ 5.2. Activities in software engineering social networks	10
+
      1. Related to programming (software engineering) works
 (The listed related works are: 1 Programs (Software) Engineering, 2 Educating programming.)
          1.1. History of related to programming (software engineering) works sessions
 ----------------------------------------------------------------------------------------------------
 (Part-time) in progress					June 2020 (35 years old) — still
-Own projects (Self-employed)
-(Part-time) Singular Software Engineer
-- Various programming (at 2024-12-17 current being worked on project is IPFIX flow data network traffic anomalies detector) [C++, HTML];
-- Various information technologies related concepts engineering.
-(Part-time) Singular Technical Writer
-Various technical writing.
+Arthur Golubev (own projects)
+(Part-time) Software Engineer and Technical Writer
+Various projects programming, engineering protocols and technical writing - products finally either planned to be published or published (some other are being currently engineered too):
+Software:
+- IPFIX flow data network traffic anomalies detector [C++, networking],
+- Workstation network traffic anomalies detector for Linux [C++, networking],
+- System of static "web"-page servers [C++, networking],
+- System of DNS (Domain Name System) servers with load balancing and geo distribution [C++, networking],
+- A set of small programs engineering and maintenance programs-tools [C++],
+Protocols:
+- C++ programming language code style ag85cppcs1 [C++, technical writing],
+- Licensing concept ag85lc1 [engineering, technical writing],
+- Codding symbols by numbers concept ag85csnc1 [engineering, technical writing],
+Educationals:
+- Reference on multithreading [multithreading, technical writing],
+- Reference on distributed systems [distributed systems, technical writing],
+- Reference on binary computations [binary computations, technical writing],
+Engineering tools:
+- General systems engineering checklist [general systems engineering],
+- Data storing engineering checklist [data storing],
+- Multithreading engineering checklist [multithreading],
+"Web"-engineering:
+- Engineering and deploying "web"-site www.ag85.site
+["web" techologies, HTML].
 ----------------------------------------------------------------------------------------------------
 State Organization of Additional Children Education by Kirovsky District of Saint-Petersburg
 Russia
@@ -58,7 +78,7 @@ Russia
 Time #2: 9 months					March 2018 (32 years old) — January 2019 (33 years old)
 Teacher of Additional Education
 • Teaching pupils programming (C++);
-• Taking parts inJudging in upils c Organizing and taking part in organizing civil educational competitions;
+• Organizing, taking part in organizing and taking parts in judging pupil competitions;
 • Producing methodical materials for educational courses;
 
 Time #1: 7 years 1 month				December 2002 (17 years old) — January 2010 (24 years old)
@@ -296,6 +316,5 @@ StackOverflow (Software engineering topic questions-and-answers system)
 Account with technical answers for custom user questions
 - https://stackoverflow.com/users/1790694/arthur-p-golubev
 ----------------------------------------------------------------------------------------------------
-
 Page for user notes:
 

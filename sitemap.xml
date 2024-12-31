@@ -191,48 +191,48 @@
 		<priority>1</priority>
 	</url>
 	<url>
-		<loc>https://www.ag85.site/textdocument/ArthurGolubev1985CV20241011.doc</loc>
-		<lastmod>2024-10-11T17:00:00+03:00</lastmod>
+		<loc>https://www.ag85.site/textdocument/ArthurGolubev1985CV.doc</loc>
+		<lastmod>2024-12-31T15:30:00+03:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
-		<loc>https://www.ag85.site/textdocument/ArthurGolubev1985CV20241011.epub</loc>
-		<lastmod>2024-10-11T17:00:00+03:00</lastmod>
+		<loc>https://www.ag85.site/textdocument/ArthurGolubev1985CV.epub</loc>
+		<lastmod>2024-12-31T15:30:00+03:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
-		<loc>https://www.ag85.site/textdocument/ArthurGolubev1985CV20241011.htm</loc>
-		<lastmod>2024-10-11T17:00:00+03:00</lastmod>
+		<loc>https://www.ag85.site/textdocument/ArthurGolubev1985CV.htm</loc>
+		<lastmod>2024-12-31T15:30:00+03:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
-		<loc>https://www.ag85.site/textdocument/ArthurGolubev1985CV20241011_html_71bbc0e27dee3564.jpg</loc>
-		<lastmod>2024-10-11T17:00:00+03:00</lastmod>
+		<loc>https://www.ag85.site/textdocument/ArthurGolubev1985CV20241231_html_de8ede1f.jpg</loc>
+		<lastmod>2024-12-31T15:30:00+03:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
-		<loc>https://www.ag85.site/textdocument/ArthurGolubev1985CV20241011.odt</loc>
-		<lastmod>2024-10-11T17:00:00+03:00</lastmod>
+		<loc>https://www.ag85.site/textdocument/ArthurGolubev1985CV.odt</loc>
+		<lastmod>2024-12-31T15:30:00+03:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
-		<loc>https://www.ag85.site/textdocument/ArthurGolubev1985CV20241011.pdf</loc>
-		<lastmod>2024-10-11T17:00:00+03:00</lastmod>
+		<loc>https://www.ag85.site/textdocument/ArthurGolubev1985CV.pdf</loc>
+		<lastmod>2024-12-31T15:30:00+03:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
-		<loc>https://www.ag85.site/textdocument/ArthurGolubev1985CV20241011.rtf</loc>
-		<lastmod>2024-10-11T17:00:00+03:00</lastmod>
+		<loc>https://www.ag85.site/textdocument/ArthurGolubev1985CV.rtf</loc>
+		<lastmod>2024-12-31T15:30:00+03:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
-		<loc>https://www.ag85.site/textdocument/ArthurGolubev1985CV20241009.txt</loc>
-		<lastmod>2024-10-11T17:00:00+03:00</lastmod>
+		<loc>https://www.ag85.site/textdocument/ArthurGolubev1985CV.txt</loc>
+		<lastmod>2024-12-31T15:30:00+03:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
-		<loc>https://www.ag85.site/ArthurGolubev1985CV20241011txtPhotoimage.jpg</loc>
-		<lastmod>2024-10-11T17:00:00+03:00</lastmod>
+		<loc>https://www.ag85.site/ArthurGolubev1985CVtxtPhotoimage.jpg</loc>
+		<lastmod>2024-12-31T15:30:00+03:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
@@ -355,7 +355,7 @@
 		<lastmod>2024-12-31T12:00:00+03:00</lastmod>
 		<priority>1</priority>
 	</url>
-	<url>
+  <url>
 		<loc>https://www.ag85.site/protocols.htm</loc>
 		<lastmod>2024-12-31T12:00:00+03:00</lastmod>
 		<priority>1</priority>
@@ -440,5 +440,4 @@
 		<lastmod>2024-12-13T16:00:00+03:00</lastmod>
 		<priority>0.80</priority>
 	</url>
-
 </urlset>

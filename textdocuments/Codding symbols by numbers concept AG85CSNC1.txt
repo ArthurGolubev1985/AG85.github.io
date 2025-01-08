@@ -1,11 +1,11 @@
 ﻿Codding symbols by numbers concept AG85CSNC1
 by Arthur Golubev
-2024-12-31
+2025-01-08
 According to codding symbols by numbers concept ag85csnc1:
 1. For encoding messages items into numbers space:
 	1.1 Numbers space is distributed over the following each of which is optional:
 		1.1.1. to designate element which can be one of the following type (so that messages make sense for the specific application):
-			a. message symbols;
+			a. alphabets items; if numbers of numbers space are ordered, items of an alphabet have to be ordered in alphabetic order though ordered part of numbers space;
 			b. alphabet authenticators;
 			c. hierarchical message sentences delimiters;
 			d. hierarchical contextual items delimiters;

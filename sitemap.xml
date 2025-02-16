@@ -37,10 +37,15 @@
 	</url>
 	<url>
 		<loc>https://www.ag85.site/engineertools.htm</loc>
-		<lastmod>2024-12-06T09:30:00+03:00</lastmod>
+		<lastmod>2025-02-16T15:00:00+03:00</lastmod>
 		<priority>1.00</priority>
 	</url>
 	<url>
+		<loc>https://www.ag85.site/engineerdocuments.htm</loc>
+		<lastmod>2025-02-16T15:00:00+03:00</lastmod>
+		<priority>1.00</priority>
+	</url>
+  <url>
 		<loc>https://www.ag85.site/licensingconceptag85l1.htm</loc>
 		<lastmod>2024-11-30T16:00:00+03:00</lastmod>
 		<priority>1.00</priority>
@@ -48,11 +53,6 @@
 	<url>
 		<loc>https://www.ag85.site/maintenanceprograms.htm</loc>
 		<lastmod>2024-12-13T16:00:00+03:00</lastmod>
-		<priority>1.00</priority>
-	</url>
-	<url>
-		<loc>https://www.ag85.site/programcodestyles.htm</loc>
-		<lastmod>2024-12-06T11:30:00+03:00</lastmod>
 		<priority>1.00</priority>
 	</url>
 	<url>
@@ -347,12 +347,7 @@
 	</url>
   <url>
 		<loc>https://www.ag85.site/protocols.htm</loc>
-		<lastmod>2024-12-31T12:00:00+03:00</lastmod>
-		<priority>1</priority>
-	</url>
-  <url>
-		<loc>https://www.ag85.site/concepts.htm</loc>
-		<lastmod>2024-12-31T12:00:00+03:00</lastmod>
+		<lastmod>2025-02-16T15:00:00+03:00</lastmod>
 		<priority>1</priority>
 	</url>
   <url>

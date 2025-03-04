@@ -337,12 +337,22 @@
 	</url>
 	<url>
 		<loc>https://www.ag85.site/protocols/licensingconceptag85lc1.htm</loc>
-		<lastmod>2024-12-31T12:00:00+03:00</lastmod>
+		<lastmod>2025-03-04T17:00:00+03:00</lastmod>
 		<priority>1</priority>
 	</url>
   <url>
 		<loc>https://www.ag85.site/protocols/coddingsymbolsbynumbersconceptag85csnc1.htm</loc>
-		<lastmod>2025-01-08T11:00:00+03:00</lastmod>
+		<lastmod>2025-03-04T17:00:00+03:00</lastmod>
+		<priority>1</priority>
+	</url>
+	<url>
+		<loc>https://www.ag85.site/protocols/datastructuretreeag85dst1.htm</loc>
+		<lastmod>2025-03-04T17:00:00+03:00</lastmod>
+		<priority>1</priority>
+	</url>
+  <url>
+		<loc>https://www.ag85.site/protocols/algoritmorderingag85aor1.htm</loc>
+		<lastmod>2025-03-04T17:00:00+03:00</lastmod>
 		<priority>1</priority>
 	</url>
   <url>
@@ -424,6 +434,16 @@
 		<loc>https://www.ag85.site/textdocuments/Codding symbols by numbers concept AG85CSNC1.txt</loc>
 		<lastmod>2025-01-08T11:00:00+03:00</lastmod>
 		<priority>0.80</priority>
+	</url>
+		<url>
+		<loc>https://www.ag85.site/logos/sitelogo1.svg</loc>
+		<lastmod>2025-03-04T17:00:00+03:00</lastmod>
+		<priority>1</priority>
+	</url>
+  <url>
+		<loc>https://www.ag85.site/logos/sitelogo1.png</loc>
+		<lastmod>2025-03-04T17:00:00+03:00</lastmod>
+		<priority>1</priority>
 	</url>
 </urlset>
 

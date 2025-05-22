@@ -1,10 +1,10 @@
 ﻿Programmer (software engineer) resume
 Arthur Golubev (Arthurgolubev1985)
 
-This resume last update day: 2025-01-23 (39 years old)
+This resume last update day: 2025-05-22 (40 years old)
 Birthday: 1985-03-16
 Personal html Internetsite use addresses:
-https://www.ag85.site
+https://www.ag85.site; copy - 
 https://ArthurGolubev.22web.org 
 http://ArthurGolubev.22web.org
 E-mail addresses:
@@ -17,7 +17,6 @@ E-mail addresses:
 		Arthur.Golubev@yandex.ru;
 Messengers:
 	Telegram: +7(921)753-56-45;
-	Skype: Arthur.Golubev@live.com;
 Mobile phones:
 	(starting with SMS expected) +7(921)753-56-45;
 	(starting with SMS expected) +7(953)17-28-666;
@@ -30,16 +29,16 @@ Table of Contents
  2.1. University education	6
  2.2. By government certified related to software engineering professional educational courses	6
  2.3. Related to programming (software engineering) comparatively long education courses	7
-2.4 Related to programming (software engineering) comparatively short educational courses	7
-2.5 People languages educational courses	7
+2.4 Related to programming (software engineering) comparatively short educational courses	8
+2.5 People languages educational courses	8
  3. Testing certifications	8
 3.1 Related to programming (software engineering) knowledges testing result certifications	8
-3.2 People languages skills testing result certifications	8
+3.2 People languages skills testing result certifications	9
  4. Science activity results	9
  4.1. Articles in science journals	9
  4.2. Reports at scientific conferences	9
- 5. Other related to programming (software engineering) achievements	9
- 5.1. Feedbacks on my works	9
+ 5. Other related to programming (software engineering) achievements	10
+ 5.1. Feedbacks on my works	10
  5.2. Activities in software engineering social networks	10
 
      1. Related to programming (software engineering) works
@@ -48,25 +47,35 @@ Table of Contents
 ----------------------------------------------------------------------------------------------------
 (Part-time) in progress					June 2020 (35 years old) — still
 Arthur Golubev (own projects)
-(Part-time) Software Engineer and Technical Writer
-Various projects programming, engineering protocols and technical writing - products finally either planned to be published or published (some other are being currently engineered too):
-Software:
-    - IPFIX flow data network traffic anomalies detector [C++, networking],
-    - Workstation network traffic anomalies detector for Linux [C++, networking],
+(Part-time)
+	Programmer-researcher
+	Technical Writer
+	Programmer-Engineer
+Various projects programming, engineering protocols and technical writing. Products finally either planned to be published or published (some other are being currently engineered too):
+Programs:
+	- Data compressor AG85Com1 [C++],
+	- C++ knowledge test questions set AG85CPT1 [C++, HTML, JavaScript],
+	- Music Mind Tutor AG85MMT1 [C++, HTML, JavaScript],
 Programming workpieces:
-    - Frameworkolibrary for programming in C++ AG85CppFramebrary [C++, programs arcitecture],
+	- Frameworkolibrary for programming in C++ AG85CppFramebrary [C++, programs arcitecture],
+	- Frameworkolibrary for programming in different languages AG85UFramebrary,
+Software systems:
+	- Programs environment (with programming language) AGInfraSystem [programming languages, networking, operating systems],
+	- Set of POSIX-like maintenance tools [C++],
 "Web"-engineering:
-    - Engineering and deploying "web"-site www.ag85.site and it copy www.arthurgolubev.22web.org ["web" technologies, HTML],
+   - Engineering and deploying "web"-site www.ag85.site and it copy www.arthurgolubev.22web.org ["web" technologies, HTML],
 Protocols:
-    - C++ programming language code style ag85cppcs1 [C++, technical writing],
-    - Licensing concept ag85lc1 [engineering, technical writing],
-    - Codding symbols by numbers concept ag85csnc1 [engineering, technical writing],
+   - C++ programming language code style ag85cppcs1 [C++, technical writing],
+   - Licensing concept ag85lc1 [engineering, technical writing],
+	- Codding symbols by numbers concept ag85csnc1 [engineering, technical writing],
+	- Algorithm of parametrized data stamping ag85ds1 [engineering, technical writing],
 Educationals:
     - Reference on multithreading [multithreading, technical writing],
-Engineering tools:
-    - General systems engineering checklist [general systems engineering],
-    - Data storing engineering checklist [data storing],
-    - Multithreading engineering checklist [multithreading].
+Engineering checklists:
+   - General systems engineering checklist [general systems engineering],
+   - Data storing engineering checklist [data storing],
+	- Multithreading engineering checklist [multithreading]
+	- Programs security checklist [programs security].
 ----------------------------------------------------------------------------------------------------
 State Organization of Additional Children Education by Kirovsky District of Saint-Petersburg
 Russia

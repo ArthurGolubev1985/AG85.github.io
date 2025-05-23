@@ -1,7 +1,7 @@
 ﻿Programmer (software engineer) resume
 Arthur Golubev (Arthurgolubev1985)
 
-This resume last update day: 2025-05-22 (40 years old)
+This resume last update day: 2025-05-23 (40 years old)
 Birthday: 1985-03-16
 Personal html Internetsite use addresses:
 https://www.ag85.site; copy - 
@@ -47,28 +47,29 @@ Table of Contents
 ----------------------------------------------------------------------------------------------------
 (Part-time) in progress					June 2020 (35 years old) — still
 Arthur Golubev (own projects)
-(Part-time)
-	Programmer-researcher
-	Technical Writer
-	Programmer-Engineer
+Programmer-researcher, Technical Writer, Programmer-Engineer
 Various projects programming, engineering protocols and technical writing. Products finally either planned to be published or published (some other are being currently engineered too):
 Programs:
 	- Data compressor AG85Com1 [C++],
 	- C++ knowledge test questions set AG85CPT1 [C++, HTML, JavaScript],
-	- Music Mind Tutor AG85MMT1 [C++, HTML, JavaScript],
+- Music Mind Tutor AG85MMT1 [C++, HTML, JavaScript],
+	- Set of POSIX-like maintenance tools [C++],
 Programming workpieces:
 	- Frameworkolibrary for programming in C++ AG85CppFramebrary [C++, programs arcitecture],
 	- Frameworkolibrary for programming in different languages AG85UFramebrary,
 Software systems:
 	- Programs environment (with programming language) AGInfraSystem [programming languages, networking, operating systems],
-	- Set of POSIX-like maintenance tools [C++],
-"Web"-engineering:
-   - Engineering and deploying "web"-site www.ag85.site and it copy www.arthurgolubev.22web.org ["web" technologies, HTML],
+"Web"-sites:
+	- Engineering and deploying "web"-site www.ag85.site and its copy www.arthurgolubev.22web.org ["web" technologies, HTML],
+   - Engineering and deploying "web"-site www.roundtable.center ["web" technologies, HTML],
 Protocols:
    - C++ programming language code style ag85cppcs1 [C++, technical writing],
    - Licensing concept ag85lc1 [engineering, technical writing],
 	- Codding symbols by numbers concept ag85csnc1 [engineering, technical writing],
+	- Dictionary compression data format ag85dfdc1 [engineering, technical writing],
 	- Algorithm of parametrized data stamping ag85ds1 [engineering, technical writing],
+	- Specification of quality of random numbers ag85sqr1 [engineering, technical writing],
+	- Specification of quality of data stamps ag85sqds1 [engineering, technical writing],
 Educationals:
     - Reference on multithreading [multithreading, technical writing],
 Engineering checklists:

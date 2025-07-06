@@ -1,4 +1,4 @@
-﻿Numeric space protocol AGNSU1
+﻿Numeric space protocol AG85NSU1
 by Arthur Golubev 19850316
 2025-07-05
 1. Size of bytes is either system or program/application/task defined;

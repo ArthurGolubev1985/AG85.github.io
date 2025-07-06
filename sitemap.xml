@@ -27,7 +27,7 @@
 	</url>
 	<url>
 		<loc>https://www.ag85.site/educationals.htm</loc>
-		<lastmod>2025-03-06T19:00:00+03:00</lastmod>
+		<lastmod>2025-07-06T15:30:00+03:00</lastmod>
 		<priority>1.00</priority>
 	</url>
 	<url>
@@ -296,43 +296,43 @@
 		<priority>1</priority>
 	</url>
   <url>
-		<loc>https://www.ag85.site/textdocuments/Reference on multithreading by Arthur Golubev 19850316.odt</loc>
-		<lastmod>2024-11-16T17:45:00+03:00</lastmod>
+		<loc>https://www.ag85.site/textdocuments/Summary on multithreading by Arthur Golubev 19850316.odt</loc>
+		<lastmod>2025-07-06T15:30:00+03:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
-		<loc>https://www.ag85.site/textdocuments/Reference on multithreading by Arthur Golubev 19850316.rtf</loc>
-		<lastmod>2024-11-16T17:45:00+03:00</lastmod>
+		<loc>https://www.ag85.site/textdocuments/Summary on multithreading by Arthur Golubev 19850316.rtf</loc>
+		<lastmod>2025-07-06T15:30:00+03:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
-		<loc>https://www.ag85.site/textdocuments/Reference on multithreading by Arthur Golubev 19850316.pdf</loc>
-		<lastmod>2024-11-16T17:45:00+03:00</lastmod>
+		<loc>https://www.ag85.site/textdocuments/Summary on multithreading by Arthur Golubev 19850316.pdf</loc>
+		<lastmod>2025-07-06T15:30:00+03:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
-		<loc>https://www.ag85.site/textdocuments/Reference on multithreading by Arthur Golubev 19850316.epub</loc>
-		<lastmod>2024-11-16T17:45:00+03:00</lastmod>
+		<loc>https://www.ag85.site/textdocuments/Summary on multithreading by Arthur Golubev 19850316.epub</loc>
+		<lastmod>2025-07-06T15:30:00+03:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
-		<loc>https://www.ag85.site/textdocuments/Reference on multithreading by Arthur Golubev 19850316.htm</loc>
-		<lastmod>2024-11-16T17:45:00+03:00</lastmod>
+		<loc>https://www.ag85.site/textdocuments/Summary on multithreading by Arthur Golubev 19850316.htm</loc>
+		<lastmod>2025-07-06T15:30:00+03:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
-		<loc>https://www.ag85.site/textdocuments/Reference on multithreading by Arthur Golubev 19850316.doc</loc>
-		<lastmod>2024-11-16T17:45:00+03:00</lastmod>
+		<loc>https://www.ag85.site/textdocuments/Summary on multithreading by Arthur Golubev 19850316.doc</loc>
+		<lastmod>2025-07-06T15:30:00+03:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
-		<loc>https://www.ag85.site/textdocuments/Reference on multithreading by Arthur Golubev 19850316.txt</loc>
-		<lastmod>2024-11-16T17:45:00+03:00</lastmod>
+		<loc>https://www.ag85.site/textdocuments/Summary on multithreading by Arthur Golubev 19850316.txt</loc>
+		<lastmod>2025-07-06T15:30:00+03:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
 		<loc>https://www.ag85.site/educationals/referencies/multithreading.htm</loc>
-		<lastmod>2025-03-06T13:30:00+03:00</lastmod>
+		<lastmod>2025-07-06T15:30:00+03:00</lastmod>
 		<priority>1</priority>
 	</url>
 	<url>
@@ -345,19 +345,24 @@
 		<lastmod>2025-03-06T19:00:00+03:00</lastmod>
 		<priority>1</priority>
 	</url>
-	<url>
-		<loc>https://www.ag85.site/protocols/datastructuretreeag85dst1.htm</loc>
-		<lastmod>2025-03-06T19:00:00+03:00</lastmod>
-		<priority>1</priority>
-	</url>
   <url>
 		<loc>https://www.ag85.site/protocols/algoritmorderingag85aor1.htm</loc>
 		<lastmod>2025-03-30T05:00:00+03:00</lastmod>
 		<priority>1</priority>
 	</url>
+	<url>
+		<loc>https://www.ag85.site/protocols/numbersformatag85nf1.htm</loc>
+		<lastmod>2025-07-06T15:30:00+03:00</lastmod>
+		<priority>1</priority>
+	</url>
+	<url>
+		<loc>https://www.ag85.site/protocols/numericspaceprotocolag85nsp1.htm</loc>
+		<lastmod>2025-07-06T15:30:00+03:00</lastmod>
+		<priority>1</priority>
+	</url>
   <url>
 		<loc>https://www.ag85.site/protocols.htm</loc>
-		<lastmod>2025-03-28T16:00:00+03:00</lastmod>
+		<lastmod>2025-07-06T15:30:00+03:00</lastmod>
 		<priority>1</priority>
 	</url>
   <url>
@@ -433,6 +438,76 @@
 	<url>
 		<loc>https://www.ag85.site/textdocuments/Codding symbols by numbers concept AG85CSNC1.txt</loc>
 		<lastmod>2025-01-08T11:00:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+  <url>
+		<loc>https://www.ag85.site/textdocuments/Numeric space protocol AG85NSP1.odt</loc>
+		<lastmod>2025-07-06T15:30:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.ag85.site/textdocuments/Numeric space protocol AG85NSP1.rtf</loc>
+		<lastmod>2025-07-06T15:30:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.ag85.site/textdocuments/Numeric space protocol AG85NSP1.pdf</loc>
+		<lastmod>2025-07-06T15:30:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.ag85.site/textdocuments/Numeric space protocol AG85NSP1.epub</loc>
+		<lastmod>2025-07-06T15:30:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.ag85.site/textdocuments/Numeric space protocol AG85NSP1.htm</loc>
+		<lastmod>2025-07-06T15:30:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.ag85.site/textdocuments/Numeric space protocol AG85NSP1.doc</loc>
+		<lastmod>2025-07-06T15:30:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.ag85.site/textdocuments/Numeric space protocol AG85NSP1.txt</loc>
+		<lastmod>2025-07-06T15:30:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+  <url>
+		<loc>https://www.ag85.site/textdocuments/Numbers format AG85NF1.odt</loc>
+		<lastmod>2025-07-06T15:30:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.ag85.site/textdocuments/Numbers format AG85NF1.rtf</loc>
+		<lastmod>2025-07-06T15:30:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.ag85.site/textdocuments/Numbers format AG85NF1.pdf</loc>
+		<lastmod>2025-07-06T15:30:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.ag85.site/textdocuments/Numbers format AG85NF1.epub</loc>
+		<lastmod>2025-07-06T15:30:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.ag85.site/textdocuments/Numbers format AG85NF1.htm</loc>
+		<lastmod>2025-07-06T15:30:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.ag85.site/textdocuments/Numbers format AG85NF1.doc</loc>
+		<lastmod>2025-07-06T15:30:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.ag85.site/textdocuments/Numbers format AG85NF1.txt</loc>
+		<lastmod>2025-07-06T15:30:00+03:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>

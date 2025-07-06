@@ -1,0 +1,15 @@
+﻿Numbers format AG85NF1
+by Arthur Golubev 19850316
+2025-07-05
+1. Size of bytes is either system or program/application/task defined;
+2. In case a value is not a fractional number
+	2.1) if it fits a byte, it is presented in more-valuable-digits-more-forward order by a byte;
+	2.2) if it does not fit a byte:
+		2.2.1) firstly goes a marker that value does not fits as specified by paragraph 5 of protocol ag85nsu1 or other specified either for system or for program/application/task the (in the last case corresponded remark for a specification with the info what value is is required);
+		2.2.2) then goes in more-valuable-digits-more-forward order bytes with the value;
+		2.2.3) then goes symbol of termination of a sequence as specified by paragraph 3 of protocol ag85nsu1 or other specified either for system or for program/application/task the (in the last case corresponded remark for a specification with the info what value is is required);	
+3. In case a value is a fractional number:
+	1) firstly goes a marker that the fractional number follows it according to protocol ag85nsu1 or other specified either for system or for program/application/task the (in the last case corresponded remark for a specification with the info what value is is required);
+	2) divided non fractional number part of fraction as specified in paragraph 2 of this document;
+	3) dividing non fractional number part of fraction as specified in paragraph 2 of this document.
+

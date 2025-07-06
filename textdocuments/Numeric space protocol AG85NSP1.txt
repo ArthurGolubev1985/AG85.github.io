@@ -1,0 +1,10 @@
+﻿Numeric space protocol AGNSU1
+by Arthur Golubev 19850316
+2025-07-05
+1. Size of bytes is either system or program/application/task defined;
+2. Maximum byte number defines that a corresponded value is unset (undefined);
+3. (Maximum - 1) byte value is symbol of termination of sequence;
+4. (Maximum - 2) byte value is marker that a fractional number follows it;
+5. (Maximum - 3) byte value defines that the value greater than free (either (maximum - 4) byte value or (maximum - 5 ) byte value depending on whether (maximum – 4) byte value is free or reserved according to paragraph 6 of this document respectively) number value (remark: including infinity value);
+6. If it is system or program/application/task defined that there is a marker which follows either system or program/application/task defined format value, the marker value is (maximum - 4) byte value.
+

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title></title>
+	<meta name="generator" content="LibreOffice 24.2.7.2 (Linux)"/>
+	<meta name="created" content="2025-07-05T17:33:09.958095877"/>
+	<meta name="changed" content="2025-07-11T18:43:55.155491908"/>
+	<style type="text/css">
+		@page { size: 8.27in 11.69in; margin: 0.79in }
+		p { line-height: 115%; margin-bottom: 0.1in; background: transparent }
+	</style>
+</head>
+<body lang="en-US" link="#000080" vlink="#800000" dir="ltr"><p align="center" style="line-height: 100%; margin-top: 0.17in; margin-bottom: 0.08in; page-break-after: avoid">
+<font face="Liberation Sans, sans-serif"><font size="6" style="font-size: 28pt"><b>Numbers
+format AG85NF1</b></font></font></p>
+<p align="center" style="line-height: 100%; margin-top: 0.04in; margin-bottom: 0.08in; page-break-after: avoid">
+<font face="Liberation Sans, sans-serif"><font size="5" style="font-size: 18pt">by
+Arthur Golubev 19850316</font></font></p>
+<p align="center" style="line-height: 100%; margin-top: 0.04in; margin-bottom: 0.08in; page-break-after: avoid">
+<font face="Liberation Sans, sans-serif"><font size="5" style="font-size: 18pt">2025-07-11</font></font></p>
+<p style="line-height: 100%; margin-bottom: 0in">1. Parameters of the
+format are to be defined by either system or program/application/task
+and restrictions for these parameters are as follows:</p>
+<p style="line-height: 100%; margin-bottom: 0in">	1.1) order of
+digits of byte is more-weighting-forward;</p>
+<p style="line-height: 100%; margin-bottom: 0in">	1.2) size of each
+integer is some whole number of bytes;</p>
+<p style="line-height: 100%; margin-bottom: 0in">	1.3) order of bytes
+in integer is more-weighting-forward;</p>
+<p style="line-height: 100%; margin-bottom: 0in">2. Numeric space is
+as specified by protocol ag85nsp1;</p>
+<p style="line-height: 100%; margin-bottom: 0in">3. By either system
+or program/application/task are specified base numbers of bytes for
+each integer;</p>
+<p style="line-height: 100%; margin-bottom: 0in">4. Integers which
+require either base number of bytes or less than base number of bytes
+to be codded are codded by base number of bytes;</p>
+<p style="line-height: 100%; margin-bottom: 0in">5. Integers which
+require more that base number of bytes to be codded are codded
+according to the following rules:</p>
+<p style="line-height: 100%; margin-bottom: 0in">	5.1) firstly goes
+sign that a value is greater than maximum value of values of byte
+which are not signs;</p>
+<p style="line-height: 100%; margin-bottom: 0in">	5.2) then go bytes
+with the integer;</p>
+<p style="line-height: 100%; margin-bottom: 0in">	5.3) then goes sign
+that sequence ended;</p>
+<p style="line-height: 100%; margin-bottom: 0in">6. Fractional
+numbers are presented by pair of divided integer and dividing integer
+and are codded according to the following rules:</p>
+<p style="line-height: 100%; margin-bottom: 0in">	6.1) firstly goes
+sign of fractional number;</p>
+<p style="line-height: 100%; margin-bottom: 0in">	6.2) then goes
+divided integer according to either paragraph 4 or paragraph 5 of
+this document correspondingly to how much bytes are required for
+codding the integer;</p>
+<p style="line-height: 100%; margin-bottom: 0in">	6.3) then goes
+dividing integer according to either paragraph 4 or paragraph 5 of
+this document correspondingly to how much bytes are required for
+codding the integer.</p>
+<p style="line-height: 100%; margin-bottom: 0in"><br/>
+
+</p>
+</body>
+</html>

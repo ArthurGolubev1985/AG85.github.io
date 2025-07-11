@@ -1,0 +1,10 @@
+﻿Numeric space protocol AG85NSP1
+by Arthur Golubev 19850316
+2025-07-11
+1. Maximum available value of byte is sign that a value is not set;
+2. (Maximum - 1 of available values of byte) value of byte is sign that sequence ended;
+3. (Maximum - 2 of available values of byte) value of byte is sign of fractional number;
+4. (Maximum - 3 of available values of byte) value of byte is sign that a value is greater than maximum value of values of byte which are not signs;
+5. Optionally (maximum - 4 of available values of byte) value of byte is sign of either system or program/application/task defined sign.
+6. It is allowed to define either system or program/application/task signs.
+

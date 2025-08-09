@@ -8,7 +8,7 @@
     <meta name="keywords" content="data structure tree ag85dst1, by Arthur Golubev 1985 data structure tree ag85dst1"/>
     <title>Data structure tree AG85DST1</title>
     <meta name="description" content="By Arthur Golubev 19850316 (ArthurGolubev19850316) data structure tree ag85dst1."/>
-    <meta name="changed" content="2025-08-07T22:00:00+03:00"/>
+    <meta name="changed" content="2025-08-09T20:00:00+03:00"/>
   </head>
   <body lang="en-US" link="#000080" vlink="#800000" dir="ltr">
 	  <h1>Data structure tree ag85dst1</h1>
@@ -16,13 +16,13 @@
 	  Data structure AG85DST1 can be with Modification 1 and has Variantility 1.
 	  </p
 	  <p>
-	  Without modifications the data structure is as follows: every link contains either some pointers each of which can be either address of one of child links or naught marker, in this case digits maps pointers in sequence order, or some pairs of a digit specificator and a pointer which can be either address of one of child links or naught marker, in this case digits maps pointers according to the specificators, except root link every link is associated with a digit and in parent link of the link corresponded to the digit pointer points to this link, values are digit-by-digit accumulated as sequence of digits corresponded to the links which paths to a leaf goes through (a remark that may be helpful for understanding: the tree differs from the so-called prefix trees by that not a link contains value of a digit but what digit is corresponds to a pointer of a link defines digits associated with each of the child links).
+	  Without modifications and in initial variant the data structure tree is as follows: every link contains either some pointers each of which can be either address of one of child links or naught marker, in this case digits maps pointers in sequence order or some pairs of a digit specificator and a pointer which can be either address of one of child links or naught marker, in this case digits maps pointers according to the specificators, resulting values are digit-by-digit accumulated as sequence of digits corresponded to pointers in paths to a leaf from root to the leaf (a remark that may be helpful for understanding: the tree differs from the so-called prefix trees by that not a link contains value of a digit but that digit corresponding to a link is defined but what of pointers of a parent link points to the link in the way described before).
     </p>
 	  <p>
 	  Modification 1. Size of values is fixed and provided and there are not only-naught-values leaves but instead of pointers that specify last in a value digit are used markers of presence of corresponded digit. 
 	  </p>
 	  <p>
-	  Variantility 1. A sequence of links with a single pointers can be replaced with a digits group link which comparatively to initial variant of links in addition contains a sequence of starting from the second digit associated with link digits.     
+	  Variantility 1. A sequence of links with single pointers can be replaced with a digits group link which comparatively to initial variant of links in addition contains a sequence of starting from the second digit associated with link digits.     
 	  </p>
 	  <p>
 	  By Arthur Golubev 1985 correct description of ag85dst1 data structure first time was published 2025-08-07 at Internet-site ag85.site, its copy Internet-site arthurgolubev.22web.org, Internet-site roundtable.center and Internet-repositories https://github.com/AGInfraSystem/AGInfraSystemEngineerTools and https://codeberg.org/AGInfraSystem/AGInfraSystemEngineerTools

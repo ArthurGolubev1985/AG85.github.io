@@ -1,0 +1,28 @@
+﻿Codding chars by numbers concept AG85CCNC1
+by Arthur Golubev
+2025-08-14
+In codding chars by numbers concept ag85ccnc1:
+1. Information space is distributed over the following:
+	1.1. chars which can be with following functions:
+		1.1.1. alphabets items so that if both numbers of numbers space and alphabet items has orders, items of an alphabet corresponds numbers of numbers space so that both orders are kept;
+		1.1.2. optional - alphabets switchers/identifiers;
+		1.1.3. is required if at least one group of lists chars and tables chars are supported – format delimiter;
+		1.1.4. optional, require also format delimiter exists – lists format chars:
+			1.1.4.1. start first or next list level sign;
+			1.1.4.2. end current list level sign;
+		1.1.5. optional, require also format delimiter exists – tables format chars:
+			1.1.5.1. start first or next table dimension sign;
+			1.1.5.2. end of table sign;
+		1.1.6. for system and program/application/task language purposes;
+		1.1.7. for system and program/application/task document design;
+	1.2. optional - either system or program/application/task defined data verification;
+	1.3. optional - either system or program/application/task defined grammar linking.
+2. Sequences of chars can be separated into flows in either system or program/application/task defined way;
+3. Lists of message parts are as follows:
+	3.1. each list level (including first level) starts with start first or next list level sign and ends with end current list level sign;
+	3.2. items (message parts) of any list level are separated by format delimiter and it is optional whether first item of the list level is preceded by format delimiter;
+4. Tables of message parts are as follows:
+	4.1. a table starts with start first or next table dimension sign and ends with end of table sign;
+	4.2.  every next table dimension starts with start first or next table dimension sign;
+	4.2.  table cell contents (message parts) are separated by format delimiter and it is optional whether first table cell content is preceded by format delimiter.
+

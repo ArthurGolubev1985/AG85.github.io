@@ -1,0 +1,20 @@
+﻿Algorithm of stamp of data AG85ASD1
+by Arthur Golubev 19850316
+2025-08-12
+1. Parameters of the algorithms are:
+	1.1. Parameter 1 – size of resulting stamp in digits;
+	1.2. Parameter 2 – signature sequence of digits;
+	1.3. Parameter 3 – sequence of digits of data to be stamped;
+	1.4. Parameter 4 – number of stamp digits which every of digits of data to be stamped influences;
+2. Variables of the algorithm are:
+	2.1. Sequence 1 – sequence of initially set to zeros digits of size Parameter 1;
+	2.2. Sequence 2 – sequence of digits firstly of Parameter 2 in order as provided and secondly of Parameter 3 in order as provided;
+	2.3. Digits Size 1 – maximum size (variability) of a digit of Parameter 3;
+	2.4. Iterator 1 – initially set to point to first digit forward cyclic iterator over digits of Sequence 1; 
+3. Actions of the algorithm are following:
+		3.1. Sequentially for every digit of Sequence 2 in order as provided:
+			3.2.1. Sequentially Parameter 4 times:
+				3.2.1.1. Modular Digit Size 1 add the current digit of Sequence 2 to a digit pointed by Iterator 1;
+				3.2.1.1. Cyclic forward move of Iterator 1;
+4. Output (stamp) is equal to final value of Sequence 1.
+

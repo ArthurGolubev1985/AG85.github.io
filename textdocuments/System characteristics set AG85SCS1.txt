@@ -1,0 +1,11 @@
+﻿System characteristics set AG85SCS1
+by Arthur Golubev 19851603
+2025-08-14
+System characteristics set AG85SCS1 is as follows:
+1. This set include the following characteristics for a system or a part of system:
+	1.1. Size of a digit;
+	1.2. possible to be none (is out not concern of the system or part of system) – Order of bytes in a message;
+	1.3. in digits, optionally, if omitted is 1 – Size of a byte;
+	1.4. exists if Size of bytes is more than 1, possible to be none (is not concern of the system or part of system) - Order of digits in a byte;
+2. Lists of values of the set without names of the characteristics are considered to be lists of values of characteristics of the set in order as in paragraph 1 of this document.
+

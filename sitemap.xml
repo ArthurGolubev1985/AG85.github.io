@@ -302,7 +302,7 @@
 	</url>
   <url>
 		<loc>https://www.ag85.site/protocols/ag85ccnc1.htm</loc>
-		<lastmod>2025-08-14T17:30:00+03:00</lastmod>
+		<lastmod>2025-08-15T19:30:00+03:00</lastmod>
 		<priority>1</priority>
 	</url>
   <url>
@@ -332,7 +332,7 @@
 	</url>
 	<url>
 		<loc>https://www.ag85.site/protocols/ag85dst2.htm</loc>
-		<lastmod>2025-08-09T20:00:00+03:00</lastmod>
+		<lastmod>2025-08-15T19:30:00+03:00</lastmod>
 		<priority>1</priority>
 	</url>
 	<url>
@@ -347,17 +347,22 @@
 	</url>
   <url>
 		<loc>https://www.ag85.site/protocols/ag85asd1.htm</loc>
-		<lastmod>2025-08-14T17:30:00+03:00</lastmod>
+		<lastmod>2025-08-15T19:30:00+03:00</lastmod>
 		<priority>1</priority>
 	</url>
   <url>
 		<loc>https://www.ag85.site/protocols/ag85scs1.htm</loc>
-		<lastmod>2025-08-14T17:30:00+03:00</lastmod>
+		<lastmod>2025-08-15T19:30:00+03:00</lastmod>
+		<priority>1</priority>
+	</url>
+  <url>
+		<loc>https://www.ag85.site/protocols/ag85dcf1.htm</loc>
+		<lastmod>2025-08-15T19:30:00+03:00</lastmod>
 		<priority>1</priority>
 	</url>
   <url>
 		<loc>https://www.ag85.site/protocols.htm</loc>
-		<lastmod>2025-08-14T17:30:00+03:00</lastmod>
+		<lastmod>2025-08-15T19:30:00+03:00</lastmod>
 		<priority>1</priority>
 	</url>
   <url>
@@ -573,6 +578,41 @@
 	<url>
 		<loc>https://www.ag85.site/textdocuments/System characteristics set AG85SCS1.txt</loc>
 		<lastmod>2025-08-14T17:30:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+  <url>
+		<loc>https://www.ag85.site/textdocuments/Dictionary compression format AG85DCF1.odt</loc>
+		<lastmod>2025-08-15T19:30:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.ag85.site/textdocuments/Dictionary compression format AG85DCF1.rtf</loc>
+		<lastmod>2025-08-15T19:30:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.ag85.site/textdocuments/Dictionary compression format AG85DCF1.pdf</loc>
+		<lastmod>2025-08-15T19:30:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.ag85.site/textdocuments/Dictionary compression format AG85DCF1.epub</loc>
+		<lastmod>2025-08-15T19:30:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.ag85.site/textdocuments/Dictionary compression format AG85DCF1.htm</loc>
+		<lastmod>2025-08-15T19:30:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.ag85.site/textdocuments/Dictionary compression format AG85DCF1.doc</loc>
+		<lastmod>2025-08-15T19:30:00+03:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://www.ag85.site/textdocuments/Dictionary compression format AG85DCF1.txt</loc>
+		<lastmod>2025-08-15T19:30:00+03:00</lastmod>
 		<priority>0.80</priority>
 	</url>
   <url>

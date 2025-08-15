@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title></title>
+	<meta name="generator" content="LibreOffice 24.2.7.2 (Linux)"/>
+	<meta name="created" content="2025-08-10T08:17:22.493338555"/>
+	<meta name="changed" content="2025-08-15T18:20:01.522440357"/>
+	<style type="text/css">
+		@page { size: 8.27in 11.69in; margin: 0.79in }
+		p { line-height: 115%; margin-bottom: 0.1in; background: transparent }
+		a:link { color: #000080; text-decoration: underline }
+		a:visited { color: #800000; text-decoration: underline }
+	</style>
+</head>
+<body lang="en-US" link="#000080" vlink="#800000" dir="ltr">
+<div title="header"><p style="line-height: 100%; margin-bottom: 0in">Dictionary
+	compression format AG85DCF1</p>
+	<p style="line-height: 100%; margin-bottom: 0in">by Arthur Golubev
+	19850316</p>
+	<p style="line-height: 100%; margin-bottom: 0in">from 2025-08-15</p>
+	<p style="line-height: 100%; margin-bottom: 0in">page <span style="background: #c0c0c0"><sdfield type=PAGE subtype=RANDOM format=PAGE>2</sdfield></span>
+	of <span style="background: #c0c0c0"><sdfield type=DOCSTAT subtype=PAGE format=PAGE>2</sdfield></span></p>
+	<p style="line-height: 100%; margin-bottom: 0.2in">--------------------------------------------------------------------------------------------------------</p>
+</div><p align="center" style="line-height: 100%; margin-top: 0.17in; margin-bottom: 0.08in; page-break-after: avoid">
+<font face="Liberation Sans, sans-serif"><font size="6" style="font-size: 28pt"><b>Dictionary
+compression format AG85DCF1</b></font></font></p>
+<p align="center" style="line-height: 100%; margin-top: 0.04in; margin-bottom: 0.08in; page-break-after: avoid">
+<font face="Liberation Sans, sans-serif"><font size="5" style="font-size: 18pt">by
+Arthur Golubev 19850316</font></font></p>
+<p align="center" style="line-height: 100%; margin-top: 0.04in; margin-bottom: 0.08in; page-break-after: avoid">
+<font face="Liberation Sans, sans-serif"><font size="5" style="font-size: 18pt">2025-08-15</font></font></p>
+<p style="line-height: 100%; margin-bottom: 0in">AG85DCF1 defines the
+following entities:</p>
+<p style="line-height: 100%; margin-bottom: 0in">	1. Dictionaries –
+in custom way provide dictionary words so that there exists sequence
+numbering of the dictionary words through the dictionary;</p>
+<p style="line-height: 100%; margin-bottom: 0in">	2. Dictionary
+extracts – of the following format:</p>
+<p style="line-height: 100%; margin-bottom: 0in">		2.1. Dictionary
+extract part 1 – in either system or program/application/task
+defined format identification of used for defining the dictionary
+extract dictionaries so that there exists sequence order of the
+dictionaries;</p>
+<p style="line-height: 100%; margin-bottom: 0in">		2.2. Dictionary
+extract part 2 – considering Sequence 1 is sequence of numbers of
+all dictionary words of all designated by dictionary extract part 1
+dictionaries with sequencing dictionary words through all
+dictionaries in orders of as the dictionaries are provided in
+dictionary extract part 1 and of as dictionary words are sequenced in
+the dictionaries a data structure ag85dst2 with presences
+representing disjoint ranges in the Sequence 1 by alternating begins
+and ends of the ranges and considering Sequence 2 is sequence of
+values in the ranges in order of Sequence 1 a data structure ag85dsp1
+with present states representing numbers of being including in the
+dictionary extract dictionary words in Sequence 2 and not present
+states representing numbers of not being included in the dictionary
+extract dictionary words in Sequence 2 so that the ranges are such
+that both there are no numbers of being included in the dictionary
+extract dictionary words out of the ranges and the both data
+structures are as little information as possible to archive changing
+the ranges.</p>
+<p style="line-height: 100%; margin-bottom: 0in">	3. Archives – of
+the following format:</p>
+<p style="line-height: 100%; margin-bottom: 0in">		3.1. Archive part
+1 – in either system or program/application/task defined format
+identification what data is compressed into the archive;</p>
+<p style="line-height: 100%; margin-bottom: 0in">		3.2. Archive part
+2 – in either system or program/application/task defined format
+identification of used to make the archive dictionary extracts so
+that there exists sequence order of the dictionary extracts;</p>
+<p style="line-height: 100%; margin-bottom: 0in">		3.3. is empty if
+no grammar compression, Archive part 3 – in either system or
+program/application/task format identifiers of grammar programs and
+devices required for performing grammar decompression in order as
+processing by grammar programs and grammar devices is required;</p>
+<p style="line-height: 100%; margin-bottom: 0in">		3.4. exists if
+archive part 3 is not empty, Archive part 4 – pieces of information
+for grammar decompression in order as processing by grammar programs
+and grammar devices is required.</p>
+<p style="line-height: 100%; margin-bottom: 0in">		3.5. Archive part
+5 – considering Sequence 3 is sequence of numbers of all dictionary
+words provided marked as used by all designated by archive part 2
+dictionary extracts with sequencing dictionary words through all
+dictionary extracts in orders of as the dictionary extracts are
+provided in archive part 2 and of as dictionary words are sequenced
+in the dictionary extracts a data structure ag85dst2 with presences
+representing disjoint ranges in the Sequence 3 by alternating begins
+and ends of the ranges and considering Sequence 4 is sequence of
+values in the ranges in order of Sequence 3 a data structure ag85dsp1
+with present states representing numbers of not used by the archive
+dictionary words in Sequence 4 and not present states representing
+numbers of used by the archive dictionary words in Sequence 4 so that
+the ranges are such that both there are no numbers of not used by the
+archive dictionary words out of the ranges and the both data
+structures are as little information as possible to archive changing
+the ranges.</p>
+<p style="line-height: 100%; margin-bottom: 0in">		3.6. Archive part
+6 – for every used dictionary word a data structure ag85dst2 data
+structure with presences representing one of the following:</p>
+<p style="line-height: 100%; margin-bottom: 0in">			3.6.1. if archive
+part 7 is not empty, position numbers of starting bytes of
+occurrences of the dictionary word in sequence of bytes of data
+compressed into the archive;</p>
+<p style="line-height: 100%; margin-bottom: 0in">			3.6.2. if archive
+part 7 is empty, position numbers of occurrences of the dictionary
+word in sequence of dictionary words corresponding to pieces of data
+compressed into the archive without restrictions of how to convert
+pieces of data into words in variate cases. 
+</p>
+<p style="line-height: 100%; margin-bottom: 0in">		3.7. is empty if
+there were no such data pieces in compressed into the archive data,
+Archive part 7 – in the same order as in the data compressed into
+the archive pieces of data which are out pieces of data corresponding
+to dictionary words values in the data compressed into the archive.</p>
+<p style="line-height: 100%; margin-bottom: 0in"><br/>
+
+</p>
+</body>
+</html>

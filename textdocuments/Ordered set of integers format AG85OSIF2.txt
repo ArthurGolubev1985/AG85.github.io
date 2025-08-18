@@ -1,0 +1,10 @@
+﻿Ordered set of integers format AG85OSIF2
+by Arthur Golubev 19850316
+2025-08-18
+Ordered set of integers format AG85OSIF2 is as follows:
+1. Part 1 – in custom format set of pairs of numbers each of which is of the following items:
+	Item 1: position in list of integers of Part 3 starting from which size of the integers of Part 3 increments by Item 2 value of the pair;
+	Item 2: the value of increment of size of integers of Part 3 on position Item 1 value of the pair;
+2. optional to be specified, by default is 1, Part 2 – starting size of numbers of Part 3;
+3. Part 3 – set of integers of the sizes as follows: starting with size Part 2 and incrementing size on positions Part 1 Item 1 by values of corresponded Part 1 Item 2.
+

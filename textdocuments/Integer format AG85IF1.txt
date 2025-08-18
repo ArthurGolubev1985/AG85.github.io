@@ -1,0 +1,9 @@
+﻿Integer format AG85IF1
+by Arthur Golubev 19850316
+2025-08-18
+Integer format AG85SIF1 is as follows:
+1. Part 1 – number of group numbers in the following format: as many as number of group numbers digits of value one and an ending digit of value zero;
+2. Part 2 – set of group integer numbers in more-embracing-forward order;
+3. Part 3 – integer value;
+4. Resulting values is an integer composed of all of Part 2 set values in order as provided and then Part 3 value.
+

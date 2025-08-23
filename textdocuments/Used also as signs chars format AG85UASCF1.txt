@@ -1,0 +1,7 @@
+﻿Used also as signs chars format AG85UASCF1
+By Arthur Golubev 19850316
+2025-08-22
+Used also as signs chars format AG85ASCF1 is applicable for texts that can’t contain successive sequence of the signs, and is as follows:
+1. Single occurrence of a char for which there is a corresponded sign means the sign occurrence in the place of the text;
+2. A successive sequence of a char for which there is a corresponded sign means successive occurrences of the char with length less by one than length of the successive sequence in the place of the text.
+

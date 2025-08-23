@@ -1,0 +1,11 @@
+﻿Dictionary compression format AG85DCF2
+by Arthur Golubev 19850316
+2025-08-22
+AG85DCF2 is as follows:
+1. Part 1 – in either system or program/application/task defined format identification what data is compressed into the archive;
+2. Part 2 – in a system optimal way set of dictionary words which values are the most long pieces of data with entrance more than 3 times in the data compressed into the archive;
+3 . Part 3 – for every dictionary word of the archive in a system optimal way a set:
+	3.5.1. if part 4 is not empty, of position numbers of starting bytes of occurrences of the dictionary word in sequence of bytes of data compressed into the archive;
+	3.5.2. if part 4 is empty, of position numbers of the dictionary word in sequence of dictionary words corresponding to data compressed into the archive;
+4. is empty if there were no such data pieces in compressed into the archive data, Part 4 – in the same order as in the data compressed into the archive pieces of data which are outside of pieces of data corresponding to dictionary words in the data compressed into the archive.
+

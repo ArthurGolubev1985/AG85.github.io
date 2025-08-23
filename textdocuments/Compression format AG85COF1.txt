@@ -1,0 +1,9 @@
+﻿Compression format AG85COF1
+By Arthur Golubev 19850316
+2025-08-21
+Compression format AG85COF1 is as follows:
+1. Part 1 – set of used chars defined in either system or program/application/task way;
+2. Part 2 – for all char values in the text in ascending order of scores calculated as ((2 * number of successive sequences of chars of the value) + number of chars of the value placed outside of the successive sequences - (2 * number of cases when a char of the value or successive sequence of chars of value is embraced by successive sequences of chars of other same value) - number of cases when a char of the value or successive sequence of chars of the value is embraced by pair of successive sequences and a single char all the same char value in any order) a pair of sets:
+	2.1. ranges of successive sequences of chars of the value as the text is after excluding chars of previous values;
+	2.2. positions of chars of the value placed outside of any of successive sequence of chars of the value as the text is after excluding chars of previous values.
+
